@@ -32,8 +32,8 @@ export default function Header() {
       <nav className="mx-auto flex max-w-7xl items-center justify-between p-6 lg:px-8" aria-label="Global">
         <div className="flex lg:flex-1">
           <NavLink to="/" className="-m-1.5 p-1.5 text-sm font-semibold leading-6 text-gray-900">
-            <span className="sr-only">E-Health Management System</span>
-            <img className="h-8 w-auto float-left" src="/logo.png" alt="" />E-Health Management System
+            <span className="sr-only">AI-Health Management System</span>
+            <img className="h-8 w-auto float-left" src="/logo.png" alt="" />AI-Health Management System
           </NavLink>
         </div>
         <div className="flex lg:hidden">
@@ -109,7 +109,7 @@ export default function Header() {
           </NavLink>
         </Popover.Group>
         <div className="hidden lg:flex lg:flex-1 lg:justify-end">
-          <a target='_blank' rel="noreferrer" href="https://github.com/MrSagarBiswas/E-Health-Management-System" className="text-sm font-semibold leading-6 text-gray-900">
+          <a target='_blank' rel="noreferrer" href="https://github.com/amanrao1234/AI-Health-Management-System" className="text-sm font-semibold leading-6 text-gray-900">
             GitHub <span aria-hidden="true">&rarr;</span>
           </a>
         </div>
@@ -119,8 +119,8 @@ export default function Header() {
         <Dialog.Panel className="fixed inset-y-0 right-0 z-10 w-full overflow-y-auto bg-white px-6 py-6 sm:max-w-sm sm:ring-1 sm:ring-gray-900/10">
           <div className="flex items-center justify-between">
             <NavLink to="/" className="-m-1.5 p-1.5 text-sm font-semibold leading-6 text-gray-900">
-              <span className="sr-only">E-Health Management System</span>
-              <img className="h-8 w-auto float-left" src="https://www.pngkit.com/png/full/113-1133314_logo-for-hospital-management-system-in-png.png" alt="E-Health Management System" />E-Health Management System
+              <span className="sr-only">AI-Health Management System</span>
+              <img className="h-8 w-auto float-left" src="https://www.pngkit.com/png/full/113-1133314_logo-for-hospital-management-system-in-png.png" alt="AI-Health Management System" />AI-Health Management System
             </NavLink>
             <button
               type="button"
@@ -184,7 +184,7 @@ export default function Header() {
                   Contacts
                 </NavLink>
                 <NavLink target='_blank'
-                  to="https://github.com/MrSagarBiswas/E-Health-Management-System"
+                  to="https://github.com/amanrao1234/AI-Health-Management-System"
                   className="-mx-3 block rounded-lg px-3 py-2.5 text-base font-semibold leading-7 text-gray-900 hover:bg-gray-50"
                 >
                   GitHub
